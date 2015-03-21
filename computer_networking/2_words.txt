@@ -1,3 +1,4 @@
+brief - краткий
 rollout - внедрение
 congestion - перегрузка
 suffered - пострадал, пережил
@@ -47,3 +48,67 @@ proposed - предлагать, выдвигать, планируемый
 way through - путь через
 rolling - прокат
 issues - вопросы
+
+certain type - определнный тип
+evolves - развивается, эволиционирует
+lesson - нотация
+
+bearing - опора
+original - первоначальный, исходный
+bearing in mind - принимая во внимание
+reflect - отражать
+constraints - ограничения, сдерживающие факторы
+faced - столкнуться
+particular  - особый, конкретный
+but rather that - а в том, что 
+as well as - а также
+
+needless - само собой
+turned out - получились
+fairly - довольно, достаточно, справедливо
+timeless- вневременными
+packet switching - пакетная коммутация
+notion - понятие, представление
+fate sharing - фортура обмена (судьба обмена)
+subsequent - последующие
+
+design - конструкция
+multiplexed - мультиплексирование (упротнение)
+utilization - утилизация, использование, загрузка
+interconnected - связанных, соединенных, можкомпонентных
+sharing - обмен, разделение
+challenges - трудность, задача
+communications - связь, передача информации
+invented - изобрести, придумать, выдумать
+narrow waist - узкая талия
+in turn - в свою очередь, в порядке очереди
+
+forwarding - пересылающий, экспедиторский
+destination - назначение, предназначение, конечный, целевой, адресат
+specify - указать
+wend - go, wend, went - идти
+intermediate - промежуточный
+post offices - почтовые отделения
+en-route - в пути
+state - штат, состояние, положение, статус
+assumptions - допущений
+best effort - лучшая попытка (максимум усилий)
+occurs - возникает, случается, наблюдается, проявляется
+phenomenon - явление, феномен
+dedicated - посвящать, предназначать
+switching - переключение
+conventional - обычный, традиционный
+circuit - цепь, схема, контур
+signalling - сигнализация, связь
+signalling protocol - протокол сигнализации
+out-of-band - внеполосный, вне диапазона
+entire - весь, целый, полный
+underlying - базовый
+persisted - сохраняется, продолжается
+advantage - преимущество
+drawbacks - недостатки
+accounting - учет
+reservation - бронь, заказ, резерв
+to pin paths - закрепление путей, сцепление путей
+ability - способность
+resilience - устойчивость, жизнеспособность, восстановливаемость
